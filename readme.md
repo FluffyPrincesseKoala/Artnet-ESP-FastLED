@@ -1,6 +1,3 @@
-Here's your **GitHub README in Markdown format**:
-
-```md
 # 🌟 ESP-Artnet-LEDs
 🚀 **Real-time Art-Net to ESP8266 LED control** using WiFi & FastLED.  
 🎨 **Seamlessly integrates with Resolume & other DMX software.**  
